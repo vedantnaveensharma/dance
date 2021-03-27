@@ -1,0 +1,26 @@
+h1 {
+  color: #93329e;
+  font-family: 'Lora', serif;
+}
+
+h2 {
+  color: #b4aee8;
+  font-family: 'Noto Serif', serif;
+}
+
+h3 {
+  color: #f25287;
+  font-family: 'Shippori Mincho B1', serif;
+}
+
+body{
+    background-color:#151515;
+
+}
+
+p{
+  font-family: 'Montserrat', sans-serif;
+  color:#ccffbd;
+
+
+}
